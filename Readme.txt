@@ -1,1 +1,1 @@
-To see the data visualized in a Tableau workbook, go here: https://goo.gl/P6vNLh
+To see the data visualized in a Tableau workbook, go here: https://public.tableau.com/profile/anthony.graves#!/vizhome/NBA-CollegeBreakdown/TopStatsTotal
